@@ -24,7 +24,7 @@ A Graphical User Interface (GUI) will allow users to select, modify, and generat
 ## Programming Language(s) and Technology used:
 - Python
 - Libraries and frameworks for numerical and algebraic manipulation (such as NumPy, SymPy)
-- JavaScript
+- JavaScript, AJAX, MathJax
 - LaTeX
 - APIs (such as Wolfram Mathematica)
 
